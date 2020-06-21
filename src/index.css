@@ -13,8 +13,8 @@ html, #root, body {
   width: 10px;
   height: 10px;
   border-radius: 5px;
-  margin-right: 1px;
-  margin-left: 1px;
+  margin-right: 2px;
+  margin-left: 2px;
   background-color: red;
   border: 0;
 }
@@ -22,8 +22,8 @@ html, #root, body {
   width: 10px;
   height: 10px;
   border-radius: 5px;
-  margin-right: 1px;
-  margin-left: 1px;
+  margin-right: 2px;
+  margin-left: 2px;
   background-color: yellow;
   border: 0;
 }
@@ -31,8 +31,8 @@ html, #root, body {
   width: 10px;
   height: 10px;
   border-radius: 5px;
-  margin-right: 1px;
-  margin-left: 1px;
+  margin-right: 2px;
+  margin-left: 2px;
   background-color: greenyellow;
   border: 0;
 }
