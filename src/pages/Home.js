@@ -8,6 +8,11 @@ export default class Home extends Component {
         <center>
           <div className='calculator'>
             <Row>
+              <Col className='nav'>
+                <button className='cl' />
+                <button className='min' />
+                <button className='full' />
+              </Col>
               <Col>
                 <Input className='input' />
               </Col>
